@@ -14,7 +14,7 @@ function forLoop(array) {
 
 function whieLoop(n) {
   while (n > 0) {
-    console.log(--n)
+    console.log(n, --n)
   }
   return 'done'
 }
